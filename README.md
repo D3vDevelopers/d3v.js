@@ -16,7 +16,7 @@ const bot = new d3v.Client();
 
 
 bot.on('ready', async () => {
-    console.log('I\'m ready!'')
+    console.log('I\'m ready!')
 });
 
 
@@ -58,6 +58,5 @@ Contributors:
 
 - LukumiyaD3v#3955 (KotypeyPyEdition)
 
-- 
 
     
