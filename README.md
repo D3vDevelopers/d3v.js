@@ -10,7 +10,7 @@ example
 
 ```js
 
-const d3v = require('@KotypeyPyEdition/D3v.js');
+const d3v = require('d3v.js');
 
 const bot = new d3v.Client();
 
