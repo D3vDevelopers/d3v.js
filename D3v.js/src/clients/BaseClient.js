@@ -14,14 +14,14 @@ const RolesManager = require('../Manager/RolesManager');
 
 class BaseClient{
     constructor(options){
-        this.debug = options.debug;
+        this.debug = options.debug || false;
 
         this.events = new EventEmit.EventEmitter();
         this.hb = 0;
         this.token;
         this.user;
 
-        this.disabledEvents = options.disabledEvents;
+        this.disabledEvents = options.disabledEvents || [];
 
         
         const ClientUser = require('../types/ClientUser');
