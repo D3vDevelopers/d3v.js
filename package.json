@@ -1,14 +1,12 @@
 {
-  "name": "D3vJS",
-  "version": "0.1N",
+  "name": "d3v.js",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "dependencies": {
     "axios": "^0.19.2",
     "enmap": "^5.2.4",
-    "request": "^2.88.2",
-    "ws": "^7.3.0",
-    "request-promise": "^4.2.5"
+    "ws": "^7.3.0"
   },
   "devDependencies": {},
   "scripts": {
