@@ -1,6 +1,6 @@
 {
   "name": "d3v.js",
-  "version": "0.0.41",
+  "version": "0.0.42",
   "description": "",
   "main": "index.js",
   "dependencies": {
@@ -12,7 +12,8 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
+  "homepage": "https://github.com/KotypeyPyEdition/d3v.js#readme",
+  "keywords": ["Discord", "d3v", "Kotypey", "Lukumiya", "Shizofreniya"],
+  "author": "KotypeyPyEdition",
   "license": "Apache-2.0"
 }
