@@ -31,4 +31,4 @@ bot.on('commandInvokeError', (message, args, error) => {
 ${error.stack}
 \`\`\``)
 })
-bot.run('NDQ3ODQ4MTQ5NDQ1MjQ2OTc2.XscQlA.kNi8e8uvMCktmuRY8-aWx-DAosY');
+bot.run('NDQ3ODQ4MTQ5NDQ1MjQ2OTc2.XscQlA.kNi8e8uvMCktmuRY8-aWx-DAosY'); // Invalid token :)
